@@ -65,4 +65,4 @@ if ( !get_property( "_floundryItemCreated" ).to_boolean() ) {
 }
 
 print("$$ Grabbing wad of used tape $$");
-fold wad of used tape
+boolean idontcare = cli_execute( "fold wad of used tape" );
